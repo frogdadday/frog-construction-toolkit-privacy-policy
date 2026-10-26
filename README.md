@@ -34,6 +34,8 @@ If this policy changes, the updated version will be published on this page with 
 
 ## Contact
 
-Questions about this policy can be raised through the Frog Construction Toolkit GitHub repository:
+For privacy questions, open an issue in the public Frog Construction Toolkit privacy-policy repository:
 
-https://github.com/frogdadday/Frog-Construction-Toolkit
+https://github.com/frogdadday/frog-construction-toolkit-privacy-policy/issues
+
+Please do not post sensitive information in a public issue.
