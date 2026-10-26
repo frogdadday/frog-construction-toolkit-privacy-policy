@@ -34,4 +34,4 @@ If this policy changes, the updated version will be published on this page with 
 
 ## Contact
 
-For privacy questions or developer contact, email [fsj406@yahoo.com](mailto:fsj406@yahoo.com).
+For privacy questions or developer contact, email [thefirstfrogdadday@gmail.com](mailto:thefirstfrogdadday@gmail.com).
